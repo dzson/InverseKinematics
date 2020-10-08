@@ -13,7 +13,7 @@ public class ArmMover : MonoBehaviour
 
     private void Start()
     {
-        StartPosition = TargetPosition = transform.position;
+        StartPosition = transform.position;
     }
 
     private void Update()
